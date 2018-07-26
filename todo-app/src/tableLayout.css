@@ -1,0 +1,43 @@
+.main-wrapper
+{
+    width: 30%;
+    margin: 0 auto;
+}
+.header-wrapper{
+    padding: 30px;    
+}
+.pagination{
+    padding-top: 30px;
+    cursor: pointer;
+}
+.pagination a{
+    padding: 10px;
+}
+
+.header-entries{
+    float: left;
+}
+
+.header-input-wrapper
+{
+    float: right;
+}
+.users{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.users th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+.users td, .users th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
